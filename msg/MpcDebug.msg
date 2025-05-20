@@ -26,3 +26,6 @@ int64 nb_iter
 
 #  Number of QP iteration of the solver
 int64 nb_qp_iter
+
+# Wether visual servoing is active or not
+bool visual_servoing_is_active
